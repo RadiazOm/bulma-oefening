@@ -1,0 +1,13 @@
+.hero-image {
+    background-image: url(../img/vacuum.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+
+.is-primary {
+    background-color: #188fff !important;
+}
+
+a.is-primary:hover {
+    background-color: #1477d3 !important;
+}
